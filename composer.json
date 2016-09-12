@@ -1,0 +1,8 @@
+{
+    "name": "nystudio107/transcoder",
+    "description": "Transcode videos to various formats, and provide thumbnails of the video",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "type": "craft-plugin"
+}
