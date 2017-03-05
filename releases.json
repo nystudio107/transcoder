@@ -1,5 +1,15 @@
 [
     {
+        "version": "1.1.1",
+        "downloadUrl": "https://github.com/nystudio107/transcoder/archive/master.zip",
+        "date": "2017-03-05T14:52:56.996Z",
+        "notes": [
+            "[Fixed] Fixed an issue with the downloadFile controller action",
+            "[Added] Broke out the changelog to `CHANGELOG.md`",
+            "[Improved] Updated `README.md`"
+        ]
+    },
+    {
         "version": "1.1.0",
         "downloadUrl": "https://github.com/nystudio107/transcoder/archive/master.zip",
         "date": "2016-09-12T14:52:56.996Z",

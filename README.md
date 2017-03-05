@@ -2,6 +2,8 @@
 
 Transcode videos to various formats, and provide thumbnails of the video
 
+Related: [Transcoder for Craft 3.x](https://github.com/nystudio107/craft3-transcoder)
+
 ## Installation
 
 To install Transcoder, follow these steps:
@@ -143,11 +145,5 @@ Some things to do, and ideas for potential features:
 * The videos could potentially be saved in different formats (though `.mp4` really is "the" standard for video)
 * The videos could potentially be resized, either to an aspect ratio or an absolute size or what have you
 * Accessors could be written to get information about a video (height, width, duration, and so on)
-
-## Transcoder Changelog
-
-### 1.1.0 -- 2016.09.12
-
-* Initial release
 
 Brought to you by [nystudio107](https://nystudio107.com)

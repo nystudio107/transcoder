@@ -32,8 +32,8 @@ class TranscoderController extends BaseController
         $url = urldecode(craft()->request->getParam('url'));
         $filepath = parse_url($url, PHP_URL_PATH);
         $filepath = $_SERVER['DOCUMENT_ROOT'] . $filepath;
-        $content = IOHelper::getFileContents($path);
-        craft()->request->sendFile($path, $content, array('forceDownload' => true), true);
+        $content = IOHelper::getFileContents($filepath);
+        craft()->request->sendFile($filepath, $content, array('forceDownload' => true), true);
     } /* -- actionDownloadFile */
 
 }
