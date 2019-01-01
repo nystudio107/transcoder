@@ -1,3 +1,11 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+
+This Craft CMS 2.x plugin is no longer supported, but it is fully functional, and you may continue to use it as you see fit. The license also allows you to fork it and make changes as needed for legacy support reasons.
+
+The Craft CMS 3.x version of this plugin can be found here: [craft-transcoder](https://github.com/nystudio107/craft-transcoder) and can also be installed via the Craft Plugin Store in the Craft CP.
+
 # Transcoder plugin for Craft CMS
 
 Transcode videos to various formats, and provide thumbnails of the video
